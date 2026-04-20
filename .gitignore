@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env files
+.env
+
+# Mongo local data
+mongo_data/
+mongo.log
+
+# OS
+.DS_Store
