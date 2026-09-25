@@ -7,7 +7,7 @@ from typing import List, Dict, Set, Tuple
 from collections import defaultdict
 
 BASE_URL = "https://cop4331project.xyz/api"
-TMDB_API_KEY = "a8723920bedcd11fd3ef05c34f141af0"
+# TMDB_API_KEY = 
 TMDB_BASE = "https://api.themoviedb.org/3"
 
 GENRE_MAP = {
